@@ -5,3 +5,6 @@ Howdy there! I'm Tygo, and this is the place that I put all my school related re
 
 ## Word of Warning
 These repositories is to show off the work my teammates and I have done.  As a student copying any of this is fraud, and I don't recomment that. Doing that could get you kicked out of university, they take that seriously.
+
+> [!CAUTION]
+> As a student copying any of this is legally fraud. Doing so, could get you kicked out of university. I highly recommend against it.
