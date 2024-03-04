@@ -8,8 +8,8 @@ Howdy there! I'm Tygo, and this is the place that I put all my school related re
     <img 
         src="logo-tue.png"
         alt="The TU/e logo."
-        width="800" 
-        height="550"
+        width="400" 
+        height="275"
     ><div>
         The TU/e logo.
     </div>
