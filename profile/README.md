@@ -5,7 +5,7 @@ Howdy there! I'm Tygo, and this is the place that I put all my school related re
 
 <div align="center">
     <img 
-        src="logo-tue.png"
+        src="https://github.com/Tygo-van-den-Hurk-school/.github/blob/main/profile/logo-tue.png?raw=true"
         alt="The TU/e logo."
         width="400" 
         height="275">
